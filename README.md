@@ -1,4 +1,12 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=hoge) 
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dakomura&theme=dracula" width="62.8%">
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dakomura&count_private=true&show_icons=true&theme=dracula" height="150px" style="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakomura&count_private=true&show_icons=true&layout=compact&theme=dracula" height="150px" style="display: inline-block;">
+</p>
 
 <!--
 **dakomura/dakomura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
