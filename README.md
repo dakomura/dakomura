@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=hoge) 
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dakomura&theme=dracula" width="62.8%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dakomura&theme=dracula" width="100%">
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dakomura&count_private=true&show_icons=true&theme=dracula" height="150px" style="display: inline-block;">
